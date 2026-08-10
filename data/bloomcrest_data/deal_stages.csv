@@ -1,0 +1,8 @@
+stage_id,name,sort_order,win_probability
+STG-01,New Lead,1,0.1
+STG-02,Qualified,2,0.25
+STG-03,Sample Sent,3,0.45
+STG-04,Proposal,4,0.6
+STG-05,Negotiation,5,0.8
+STG-06,Closed Won,6,1.0
+STG-07,Closed Lost,7,0.0
