@@ -1,0 +1,7 @@
+rep_id,name,region_id,role,hire_date
+REP-001,Wale Aliyu,REG-005,Wholesale Lead,2021-12-01
+REP-002,Obinna Eze,REG-001,Sales Rep,2022-12-04
+REP-003,Michael Adeleke,REG-005,Sales Rep,2020-07-22
+REP-004,Oluchi Orji,REG-002,Sales Rep,2022-06-18
+REP-005,Ifeoma Nwosu,REG-005,Sales Rep,2022-03-26
+REP-006,Joshua Igwe,REG-002,Sales Rep,2023-06-19
