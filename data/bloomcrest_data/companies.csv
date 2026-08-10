@@ -1,0 +1,141 @@
+company_id,name,type,region_id,created_date
+CMP-0001,Savannah Hotel,Hotel,REG-001,2026-02-16
+CMP-0002,Luxe Boutique,Boutique,REG-001,2024-08-27
+CMP-0003,Palm Gifts,Gift Shop,REG-001,2024-09-12
+CMP-0004,Harmattan Boutique,Boutique,REG-001,2025-02-01
+CMP-0005,Lumen Living,Boutique,REG-007,2025-08-20
+CMP-0006,Adire Interiors,Boutique,REG-002,2025-03-11
+CMP-0007,Aurora Gift Emporium,Gift Shop,REG-001,2025-06-26
+CMP-0008,Marigold Home & Living,Boutique,REG-004,2024-11-18
+CMP-0009,Palm Living,Boutique,REG-003,2025-12-14
+CMP-0010,Serene Hotel,Hotel,REG-007,2025-02-25
+CMP-0011,Ada Interiors,Boutique,REG-005,2024-09-04
+CMP-0012,Aurora Gift House,Gift Shop,REG-002,2025-12-22
+CMP-0013,Verdant Boutique,Boutique,REG-001,2026-04-13
+CMP-0014,Ivory Living,Boutique,REG-008,2024-07-30
+CMP-0015,Ada Living,Boutique,REG-004,2025-05-22
+CMP-0016,The Bloom Hotel,Hotel,REG-007,2026-02-19
+CMP-0017,Nneka Living,Boutique,REG-001,2025-11-27
+CMP-0018,Aurora Boutique,Boutique,REG-006,2026-03-12
+CMP-0019,Serene Interiors,Boutique,REG-003,2025-05-07
+CMP-0020,Guaranty Trust,Corporate,REG-001,2025-04-06
+CMP-0021,Nigerian Breweries,Corporate,REG-003,2025-11-29
+CMP-0022,Coral Gift Emporium,Gift Shop,REG-004,2024-11-04
+CMP-0023,Ember Living,Boutique,REG-001,2025-01-03
+CMP-0024,Radisson Blu,Corporate,REG-002,2025-09-14
+CMP-0025,Kente Gift House,Gift Shop,REG-006,2025-10-31
+CMP-0026,Indigo Gifts,Gift Shop,REG-001,2024-10-11
+CMP-0027,Bloom Home & Living,Boutique,REG-002,2025-07-11
+CMP-0028,Nova Living,Boutique,REG-002,2025-04-01
+CMP-0029,Bloom Home & Living,Boutique,REG-001,2025-07-06
+CMP-0030,Radisson Blu,Corporate,REG-007,2026-05-22
+CMP-0031,Kente Interiors,Boutique,REG-005,2024-09-11
+CMP-0032,Haven Boutique,Boutique,REG-001,2026-06-17
+CMP-0033,Sage Interiors,Boutique,REG-008,2025-05-31
+CMP-0034,The Sage Hotel,Hotel,REG-006,2026-01-12
+CMP-0035,Baobab Living,Boutique,REG-001,2025-05-13
+CMP-0036,Harmattan Gifts,Gift Shop,REG-006,2025-02-22
+CMP-0037,Kente Gifts,Gift Shop,REG-001,2026-01-11
+CMP-0038,Luxe Gift Emporium,Gift Shop,REG-008,2025-11-14
+CMP-0039,Terra Home & Living,Boutique,REG-004,2024-10-28
+CMP-0040,Ivory Suites,Hotel,REG-004,2025-11-26
+CMP-0041,Petal Hotel,Hotel,REG-001,2025-12-29
+CMP-0042,The Adire Hotel,Hotel,REG-006,2025-04-17
+CMP-0043,Verdant Home & Living,Boutique,REG-001,2026-04-29
+CMP-0044,Lumen Boutique,Boutique,REG-001,2025-10-12
+CMP-0045,Verdant Interiors,Boutique,REG-001,2025-03-10
+CMP-0046,Serene Boutique,Boutique,REG-005,2024-07-27
+CMP-0047,Aurora Boutique,Boutique,REG-001,2025-11-05
+CMP-0048,Willow Home & Living,Boutique,REG-007,2024-12-13
+CMP-0049,Ivory Living,Boutique,REG-004,2026-01-01
+CMP-0050,The Willow Hotel,Hotel,REG-001,2025-07-23
+CMP-0051,Ember Boutique,Boutique,REG-001,2025-06-12
+CMP-0052,Flour Mills of Nigeria,Corporate,REG-001,2024-11-11
+CMP-0053,Transcorp Hilton,Hotel,REG-003,2025-11-30
+CMP-0054,Ember Boutique,Boutique,REG-006,2024-11-13
+CMP-0055,Radisson Blu,Hotel,REG-001,2025-05-08
+CMP-0056,Marigold Home & Living,Boutique,REG-006,2026-02-26
+CMP-0057,Unilever Nigeria,Corporate,REG-001,2026-04-26
+CMP-0058,Kente Home & Living,Boutique,REG-006,2026-06-13
+CMP-0059,Coral Gifts,Gift Shop,REG-007,2026-05-22
+CMP-0060,Palm Boutique,Boutique,REG-005,2025-08-13
+CMP-0061,Harmattan Interiors,Boutique,REG-004,2024-12-07
+CMP-0062,Lumen Home & Living,Boutique,REG-006,2026-02-28
+CMP-0063,Access Holdings,Corporate,REG-001,2026-02-01
+CMP-0064,Eko Hotels,Hotel,REG-001,2026-06-14
+CMP-0065,Serene Home & Living,Boutique,REG-001,2025-10-19
+CMP-0066,Baobab Home & Living,Boutique,REG-002,2024-10-27
+CMP-0067,Willow Interiors,Boutique,REG-005,2025-07-07
+CMP-0068,Adire Hotel,Hotel,REG-003,2025-05-30
+CMP-0069,Baobab Living,Boutique,REG-006,2026-03-02
+CMP-0070,Sahara Living,Boutique,REG-001,2025-04-21
+CMP-0071,Sage Gift House,Gift Shop,REG-005,2025-03-07
+CMP-0072,Transcorp Hilton,Corporate,REG-001,2024-09-14
+CMP-0073,Olive Living,Boutique,REG-001,2026-02-25
+CMP-0074,The Indigo Hotel,Hotel,REG-004,2025-12-31
+CMP-0075,Nneka Boutique,Boutique,REG-008,2024-08-17
+CMP-0076,The Verdant Hotel,Hotel,REG-003,2025-05-20
+CMP-0077,Petal Boutique,Boutique,REG-001,2025-06-21
+CMP-0078,Radisson Blu,Hotel,REG-003,2025-06-13
+CMP-0079,Haven Gift House,Gift Shop,REG-001,2026-04-25
+CMP-0080,Nova Gift House,Gift Shop,REG-006,2024-11-02
+CMP-0081,Palm Home & Living,Boutique,REG-004,2025-02-19
+CMP-0082,Nestle Nigeria,Corporate,REG-001,2024-11-23
+CMP-0083,Verdant Interiors,Boutique,REG-001,2025-01-07
+CMP-0084,Luxe Home & Living,Boutique,REG-001,2026-04-16
+CMP-0085,Bloom Hotel,Hotel,REG-008,2026-05-10
+CMP-0086,Terra Interiors,Boutique,REG-002,2024-08-20
+CMP-0087,Ember Gift Emporium,Gift Shop,REG-005,2025-10-06
+CMP-0088,Ada Gifts,Gift Shop,REG-003,2024-12-30
+CMP-0089,Haven Interiors,Boutique,REG-003,2024-12-01
+CMP-0090,Honeywell Group,Corporate,REG-001,2025-02-09
+CMP-0091,Sage Interiors,Boutique,REG-007,2024-12-03
+CMP-0092,The Nneka Hotel,Hotel,REG-001,2025-06-28
+CMP-0093,Adire Living,Boutique,REG-003,2026-06-17
+CMP-0094,Transcorp Hilton,Corporate,REG-004,2025-09-04
+CMP-0095,Petal Interiors,Boutique,REG-004,2025-12-08
+CMP-0096,Marigold Living,Boutique,REG-007,2025-06-30
+CMP-0097,Baobab Interiors,Boutique,REG-001,2024-07-29
+CMP-0098,Unilever Nigeria,Corporate,REG-002,2024-09-16
+CMP-0099,Coscharis Group,Corporate,REG-001,2025-01-24
+CMP-0100,Ember Gift House,Gift Shop,REG-002,2025-01-06
+CMP-0101,Nestle Nigeria,Corporate,REG-001,2026-03-01
+CMP-0102,Unilever Nigeria,Corporate,REG-001,2026-03-03
+CMP-0103,Ada Hotel,Hotel,REG-001,2026-03-10
+CMP-0104,Olive Boutique,Boutique,REG-001,2025-10-09
+CMP-0105,Ember Gift House,Gift Shop,REG-002,2025-08-13
+CMP-0106,Transcorp Hilton,Hotel,REG-003,2025-10-18
+CMP-0107,Indigo Boutique,Boutique,REG-003,2025-05-01
+CMP-0108,Amber Boutique,Boutique,REG-001,2025-11-01
+CMP-0109,Zuri Gift Emporium,Gift Shop,REG-001,2026-01-27
+CMP-0110,Amber Boutique,Boutique,REG-001,2026-01-05
+CMP-0111,Stallion Group,Corporate,REG-003,2025-09-23
+CMP-0112,Verdant Living,Boutique,REG-001,2024-08-29
+CMP-0113,Harmattan Home & Living,Boutique,REG-001,2025-12-10
+CMP-0114,Sahara Gift Emporium,Gift Shop,REG-001,2025-04-02
+CMP-0115,Olive Interiors,Boutique,REG-002,2025-12-23
+CMP-0116,Nneka Living,Boutique,REG-001,2025-08-02
+CMP-0117,Radisson Blu,Hotel,REG-003,2026-03-29
+CMP-0118,Amber Gifts,Gift Shop,REG-003,2025-03-14
+CMP-0119,Zuri Boutique,Boutique,REG-004,2026-05-03
+CMP-0120,Willow Home & Living,Boutique,REG-004,2026-03-03
+CMP-0121,Ember Gift Emporium,Gift Shop,REG-004,2025-03-09
+CMP-0122,Unilever Nigeria,Corporate,REG-001,2025-06-23
+CMP-0123,Serene Hotel,Hotel,REG-005,2025-07-27
+CMP-0124,Olive Interiors,Boutique,REG-003,2026-01-09
+CMP-0125,Haven Boutique,Boutique,REG-002,2025-11-15
+CMP-0126,Ember Boutique,Boutique,REG-003,2026-03-09
+CMP-0127,Ada Living,Boutique,REG-001,2025-04-05
+CMP-0128,Nneka Suites,Hotel,REG-002,2025-07-08
+CMP-0129,Sage Boutique,Boutique,REG-005,2025-05-18
+CMP-0130,Radisson Blu,Hotel,REG-006,2026-04-18
+CMP-0131,Serene Gift House,Gift Shop,REG-007,2025-02-18
+CMP-0132,Serene Hotel,Hotel,REG-002,2025-09-04
+CMP-0133,Luxe Boutique,Boutique,REG-002,2024-10-12
+CMP-0134,Zuri Gift Emporium,Gift Shop,REG-006,2026-03-08
+CMP-0135,Adire Gift House,Gift Shop,REG-001,2025-04-15
+CMP-0136,Coral Gift House,Gift Shop,REG-006,2025-03-15
+CMP-0137,Zuri Interiors,Boutique,REG-002,2025-09-01
+CMP-0138,Ada Living,Boutique,REG-001,2025-07-04
+CMP-0139,Stallion Group,Corporate,REG-001,2026-03-06
+CMP-0140,Palm Interiors,Boutique,REG-006,2025-07-27
