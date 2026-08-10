@@ -1,0 +1,47 @@
+product_id,name,sku,category,unit_price,unit_cost
+PRD-0001,Vanilla Amber Soy Candle,BLM-CAN-001,Candles,6803,3600
+PRD-0002,Sandalwood Noir Soy Candle,BLM-CAN-002,Candles,12965,6000
+PRD-0003,Lemongrass Ginger Soy Candle,BLM-CAN-003,Candles,11891,5200
+PRD-0004,Ocean Breeze Soy Candle,BLM-CAN-004,Candles,9949,4800
+PRD-0005,Warm Cinnamon Soy Candle,BLM-CAN-005,Candles,9897,4100
+PRD-0006,Lavender Fields Soy Candle,BLM-CAN-006,Candles,13727,7200
+PRD-0007,Black Oud Soy Candle,BLM-CAN-007,Candles,6773,3400
+PRD-0008,Coconut Lime Soy Candle,BLM-CAN-008,Candles,12276,6300
+PRD-0009,Rose Garden Soy Candle,BLM-CAN-009,Candles,7813,3500
+PRD-0010,Fresh Linen Soy Candle,BLM-CAN-010,Candles,6847,3700
+PRD-0011,Fig & Cassis Soy Candle,BLM-CAN-011,Candles,10738,5700
+PRD-0012,Smoked Vetiver Soy Candle,BLM-CAN-012,Candles,14780,7600
+PRD-0013,Wild Mint Soy Candle,BLM-CAN-013,Candles,12621,5400
+PRD-0014,Amber Musk Soy Candle,BLM-CAN-014,Candles,12850,6000
+PRD-0015,Sea Salt Sage Soy Candle,BLM-CAN-015,Candles,12457,5100
+PRD-0016,Reed Diffuser - Amber Musk,BLM-HOM-016,Home Fragrance,16074,6800
+PRD-0017,Reed Diffuser - Citrus Grove,BLM-HOM-017,Home Fragrance,13619,6800
+PRD-0018,Reed Diffuser - White Tea,BLM-HOM-018,Home Fragrance,10153,5200
+PRD-0019,Reed Diffuser - Lavender,BLM-HOM-019,Home Fragrance,16557,9000
+PRD-0020,Reed Diffuser - Wild Fig,BLM-HOM-020,Home Fragrance,13053,5900
+PRD-0021,Reed Diffuser - Vanilla Bean,BLM-HOM-021,Home Fragrance,13503,6200
+PRD-0022,Room Spray - White Tea,BLM-HOM-022,Home Fragrance,8853,4200
+PRD-0023,Room Spray - Neroli,BLM-HOM-023,Home Fragrance,7912,3400
+PRD-0024,Room Spray - Cedar,BLM-HOM-024,Home Fragrance,11633,4900
+PRD-0025,Pillow Mist - Lavender,BLM-HOM-025,Home Fragrance,9126,4300
+PRD-0026,Scented Sachet Set,BLM-HOM-026,Home Fragrance,7575,3300
+PRD-0027,Egyptian Cotton Duvet Set - Queen,BLM-BED-027,Bedding,78000,39000
+PRD-0028,Egyptian Cotton Duvet Set - King,BLM-BED-028,Bedding,92000,42800
+PRD-0029,Percale Bed Sheet Set - Queen,BLM-BED-029,Bedding,42000,22000
+PRD-0030,Percale Bed Sheet Set - King,BLM-BED-030,Bedding,52000,26300
+PRD-0031,Linen Pillowcase Pair,BLM-BED-031,Bedding,22000,9800
+PRD-0032,Waffle Throw Blanket,BLM-BED-032,Bedding,35000,18400
+PRD-0033,Bamboo Duvet Cover - Queen,BLM-BED-033,Bedding,68000,35400
+PRD-0034,Cotton Bath Towel Set,BLM-BED-034,Bedding,28000,12800
+PRD-0035,Ceramic Vase - Matte White,BLM-DEC-035,Decor,24000,10600
+PRD-0036,Woven Storage Basket,BLM-DEC-036,Decor,18000,9000
+PRD-0037,Brass Candle Holder,BLM-DEC-037,Decor,15000,6300
+PRD-0038,Macrame Wall Hanging,BLM-DEC-038,Decor,21000,9000
+PRD-0039,Marble Coaster Set,BLM-DEC-039,Decor,16000,6400
+PRD-0040,Rattan Table Lamp,BLM-DEC-040,Decor,46000,23800
+PRD-0041,Stoneware Bowl Set,BLM-DEC-041,Decor,27000,13500
+PRD-0042,Framed Botanical Print,BLM-DEC-042,Decor,19000,9600
+PRD-0043,Relaxation Gift Box,BLM-GIF-043,Gift Sets,34000,17600
+PRD-0044,Home Warming Hamper,BLM-GIF-044,Gift Sets,48000,22500
+PRD-0045,Corporate Gift Set - Deluxe,BLM-GIF-045,Gift Sets,72000,34900
+PRD-0046,Candle Trio Gift Set,BLM-GIF-046,Gift Sets,29000,12200
