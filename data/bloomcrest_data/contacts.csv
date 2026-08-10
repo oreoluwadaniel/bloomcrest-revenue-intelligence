@@ -1,0 +1,204 @@
+contact_id,company_id,full_name,email,role
+CON-0001,CMP-0001,Kayode Igwe,kayode.igwe78@hotmail.com,Owner
+CON-0002,CMP-0002,Tunde Mbah,tunde.mbah64@outlook.com,Buyer
+CON-0003,CMP-0003,Aisha Aliyu,aisha_aliyu@yahoo.com,Buyer
+CON-0004,CMP-0003,Chidinma Balogun,chidinma.balogun98@outlook.com,Procurement Manager
+CON-0005,CMP-0004,Joy Adeyemi,joy.adeyemi2@outlook.com,Procurement Manager
+CON-0006,CMP-0004,Ifeanyi Okonkwo,ifeanyiokonkwo98@yahoo.com,Procurement Manager
+CON-0007,CMP-0005,Usman Nwosu,usman_nwosu3@yahoo.com,Owner
+CON-0008,CMP-0006,Tunde Afolabi,tunde_afolabi51@hotmail.com,Buyer
+CON-0009,CMP-0007,Adebayo Fashola,adebayo_fashola10@outlook.com,Store Manager
+CON-0010,CMP-0008,Wale Aliyu,walealiyu9@gmail.com,Owner
+CON-0011,CMP-0009,Chiamaka Yakubu,chiamakayakubu67@outlook.com,Buyer
+CON-0012,CMP-0009,Chidi Aliyu,chidi.aliyu72@outlook.com,Founder
+CON-0013,CMP-0010,Adaugo Lawal,adaugolawal11@outlook.com,Owner
+CON-0014,CMP-0011,David Obi,david_obi96@outlook.com,Procurement Manager
+CON-0015,CMP-0012,Musa Obi,musaobi31@hotmail.com,Buyer
+CON-0016,CMP-0013,James Balogun,james_balogun31@yahoo.com,Owner
+CON-0017,CMP-0014,Funmi Eze,funmi.eze29@yahoo.com,Procurement Manager
+CON-0018,CMP-0015,Aliyu Williams,aliyuwilliams45@gmail.com,Procurement Manager
+CON-0019,CMP-0015,Adebayo Oladipo,adebayo.oladipo17@outlook.com,Owner
+CON-0020,CMP-0016,Adebayo Orji,adebayoorji42@yahoo.com,Owner
+CON-0021,CMP-0016,Lola Anyanwu,lola.anyanwu20@yahoo.com,Owner
+CON-0022,CMP-0017,Obinna Williams,obinna.williams5@outlook.com,Store Manager
+CON-0023,CMP-0017,Adaora Nwankwo,adaora_nwankwo36@yahoo.com,Founder
+CON-0024,CMP-0018,Hassan Orji,hassanorji66@yahoo.com,Owner
+CON-0025,CMP-0018,Favour Nwosu,favour_nwosu75@yahoo.com,Buyer
+CON-0026,CMP-0019,Chidi Nwachukwu,chidi.nwachukwu34@yahoo.com,Buyer
+CON-0027,CMP-0020,Hauwa Orji,hauwa.orji32@gmail.com,Buyer
+CON-0028,CMP-0020,Precious Nwankwo,preciousnwankwo77@hotmail.com,Buyer
+CON-0029,CMP-0021,David Mbah,davidmbah67@gmail.com,Owner
+CON-0030,CMP-0021,Damilola Afolabi,damilola.afolabi82@yahoo.com,Procurement Manager
+CON-0031,CMP-0022,Adaugo Olawale,adaugo_olawale89@outlook.com,Buyer
+CON-0032,CMP-0022,Usman Okoro,usman.okoro81@gmail.com,Buyer
+CON-0033,CMP-0023,Peter Williams,peter.williams92@outlook.com,Buyer
+CON-0034,CMP-0023,Victor Chukwu,victorchukwu41@outlook.com,Founder
+CON-0035,CMP-0024,Kunle Adeyemi,kunle_adeyemi39@outlook.com,Store Manager
+CON-0036,CMP-0024,Emmanuel Okonkwo,emmanuel.okonkwo31@yahoo.com,Procurement Manager
+CON-0037,CMP-0025,Kayode Ugwu,kayode_ugwu23@gmail.com,Buyer
+CON-0038,CMP-0025,Emeka Okafor,emeka_okafor74@hotmail.com,Founder
+CON-0039,CMP-0026,Abdullahi Williams,abdullahi.williams70@yahoo.com,Founder
+CON-0040,CMP-0027,Obinna Olawale,obinna_olawale79@hotmail.com,Owner
+CON-0041,CMP-0027,Emmanuel Olawale,emmanuel.olawale16@gmail.com,Founder
+CON-0042,CMP-0028,Tosin Chukwu,tosin.chukwu48@gmail.com,Store Manager
+CON-0043,CMP-0029,Segun Adeleke,segunadeleke21@hotmail.com,Owner
+CON-0044,CMP-0030,Emeka Ugwu,emekaugwu88@hotmail.com,Store Manager
+CON-0045,CMP-0030,Ifeanyi Yakubu,ifeanyi.yakubu26@hotmail.com,Owner
+CON-0046,CMP-0031,John Igwe,johnigwe14@hotmail.com,Owner
+CON-0047,CMP-0031,Ibrahim Oladipo,ibrahim_oladipo56@gmail.com,Owner
+CON-0048,CMP-0032,Peter Afolabi,peterafolabi87@hotmail.com,Procurement Manager
+CON-0049,CMP-0032,Tunde Anyanwu,tundeanyanwu90@outlook.com,Store Manager
+CON-0050,CMP-0033,Bello Taiwo,bello_taiwo9@gmail.com,Procurement Manager
+CON-0051,CMP-0034,Emmanuel Afolabi,emmanuel_afolabi32@gmail.com,Owner
+CON-0052,CMP-0034,Michael Okafor,michael_okafor15@hotmail.com,Owner
+CON-0053,CMP-0035,Chioma Chukwu,chiomachukwu30@yahoo.com,Founder
+CON-0054,CMP-0035,Funmi Lawal,funmi.lawal52@hotmail.com,Founder
+CON-0055,CMP-0036,Joshua Balogun,joshua.balogun27@gmail.com,Store Manager
+CON-0056,CMP-0037,Kemi Anyanwu,kemi.anyanwu6@yahoo.com,Owner
+CON-0057,CMP-0038,Ngozi Balogun,ngozi.balogun50@yahoo.com,Founder
+CON-0058,CMP-0039,Musa Okoro,musa.okoro5@yahoo.com,Store Manager
+CON-0059,CMP-0039,Kunle Aliyu,kunle.aliyu22@outlook.com,Procurement Manager
+CON-0060,CMP-0040,Bello Mbah,bellombah@hotmail.com,Owner
+CON-0061,CMP-0041,Amaka Okoro,amaka.okoro8@hotmail.com,Founder
+CON-0062,CMP-0041,Wale Lawal,walelawal43@outlook.com,Procurement Manager
+CON-0063,CMP-0042,Zainab Fashola,zainab.fashola84@gmail.com,Owner
+CON-0064,CMP-0043,Joseph Okafor,josephokafor76@hotmail.com,Buyer
+CON-0065,CMP-0043,Tosin Taiwo,tosin.taiwo9@outlook.com,Procurement Manager
+CON-0066,CMP-0044,Blessing Yakubu,blessing_yakubu3@outlook.com,Owner
+CON-0067,CMP-0045,Lawal Orji,lawal.orji33@outlook.com,Buyer
+CON-0068,CMP-0045,Kunle Igwe,kunle_igwe64@hotmail.com,Procurement Manager
+CON-0069,CMP-0046,Joy Yakubu,joy_yakubu73@hotmail.com,Founder
+CON-0070,CMP-0047,Bello Igwe,bello_igwe81@outlook.com,Owner
+CON-0071,CMP-0048,Wale Oladipo,wale_oladipo33@outlook.com,Procurement Manager
+CON-0072,CMP-0048,Fatima Olawale,fatima_olawale16@outlook.com,Founder
+CON-0073,CMP-0049,Joseph Williams,josephwilliams2@yahoo.com,Founder
+CON-0074,CMP-0049,Adebayo Adeleke,adebayo_adeleke14@yahoo.com,Founder
+CON-0075,CMP-0050,Peter Orji,peter_orji6@outlook.com,Owner
+CON-0076,CMP-0050,Joshua Igwe,joshua.igwe85@gmail.com,Founder
+CON-0077,CMP-0051,Tosin Nwankwo,tosin_nwankwo26@yahoo.com,Founder
+CON-0078,CMP-0052,Grace Eze,grace.eze81@outlook.com,Buyer
+CON-0079,CMP-0053,Gbenga Ugwu,gbenga.ugwu54@hotmail.com,Procurement Manager
+CON-0080,CMP-0054,Kayode Chukwu,kayodechukwu53@outlook.com,Procurement Manager
+CON-0081,CMP-0055,Amaka Nwosu,amaka.nwosu45@yahoo.com,Procurement Manager
+CON-0082,CMP-0055,Adebayo Salami,adebayo_salami81@yahoo.com,Buyer
+CON-0083,CMP-0056,Aliyu Adewale,aliyuadewale4@outlook.com,Founder
+CON-0084,CMP-0056,Babatunde Ugwu,babatundeugwu9@outlook.com,Founder
+CON-0085,CMP-0057,Oluwaseun Okoro,oluwaseun.okoro41@gmail.com,Buyer
+CON-0086,CMP-0057,Fatima Anyanwu,fatima.anyanwu39@outlook.com,Founder
+CON-0087,CMP-0058,Kelechi Aliyu,kelechi_aliyu54@yahoo.com,Buyer
+CON-0088,CMP-0058,Emeka Aliyu,emeka_aliyu73@outlook.com,Store Manager
+CON-0089,CMP-0059,Aisha Ugwu,aishaugwu58@hotmail.com,Procurement Manager
+CON-0090,CMP-0059,Gbenga Williams,gbenga.williams25@hotmail.com,Procurement Manager
+CON-0091,CMP-0060,Folake Adeleke,folake.adeleke32@outlook.com,Owner
+CON-0092,CMP-0060,Tunde Adeyemi,tunde.adeyemi74@yahoo.com,Store Manager
+CON-0093,CMP-0061,Segun Fashola,segunfashola19@yahoo.com,Buyer
+CON-0094,CMP-0062,Ifeanyi Olawale,ifeanyi.olawale49@gmail.com,Buyer
+CON-0095,CMP-0063,Precious Orji,precious_orji53@hotmail.com,Owner
+CON-0096,CMP-0063,Ogechi Salami,ogechi.salami74@hotmail.com,Founder
+CON-0097,CMP-0064,Joseph Adeyemi,joseph.adeyemi70@hotmail.com,Owner
+CON-0098,CMP-0064,Wale Fashola,walefashola46@yahoo.com,Store Manager
+CON-0099,CMP-0065,Kelechi Mbah,kelechi.mbah30@yahoo.com,Founder
+CON-0100,CMP-0066,Adaeze Mbah,adaeze.mbah36@hotmail.com,Owner
+CON-0101,CMP-0067,Kunle Oladipo,kunleoladipo40@outlook.com,Procurement Manager
+CON-0102,CMP-0067,Nneka Musa,nneka_musa21@outlook.com,Procurement Manager
+CON-0103,CMP-0068,Blessing Nwankwo,blessing.nwankwo61@yahoo.com,Buyer
+CON-0104,CMP-0069,Lola Okoro,lola_okoro20@yahoo.com,Store Manager
+CON-0105,CMP-0070,Peter Yakubu,peteryakubu64@outlook.com,Procurement Manager
+CON-0106,CMP-0070,Emeka Obi,emeka_obi74@hotmail.com,Procurement Manager
+CON-0107,CMP-0071,Abdullahi Oladipo,abdullahi_oladipo95@yahoo.com,Procurement Manager
+CON-0108,CMP-0071,Lola Obi,lola_obi11@hotmail.com,Founder
+CON-0109,CMP-0072,Ngozi Ogundimu,ngozi_ogundimu75@gmail.com,Store Manager
+CON-0110,CMP-0073,Ogechi Okafor,ogechi.okafor8@yahoo.com,Buyer
+CON-0111,CMP-0073,David Obi,davidobi33@hotmail.com,Founder
+CON-0112,CMP-0074,Segun Nwosu,segunnwosu17@hotmail.com,Founder
+CON-0113,CMP-0075,Hauwa Nwosu,hauwa.nwosu16@hotmail.com,Founder
+CON-0114,CMP-0075,Favour Oladipo,favouroladipo17@yahoo.com,Store Manager
+CON-0115,CMP-0076,Ezinne Olawale,ezinneolawale4@hotmail.com,Buyer
+CON-0116,CMP-0077,Lola Adeyemi,lolaadeyemi81@hotmail.com,Store Manager
+CON-0117,CMP-0078,Abdullahi Obi,abdullahi_obi6@hotmail.com,Buyer
+CON-0118,CMP-0079,Musa Nwosu,musa_nwosu39@gmail.com,Buyer
+CON-0119,CMP-0080,Wale Chukwu,walechukwu69@outlook.com,Procurement Manager
+CON-0120,CMP-0080,Fatima Williams,fatima.williams98@hotmail.com,Founder
+CON-0121,CMP-0081,Adaeze Taiwo,adaezetaiwo84@hotmail.com,Procurement Manager
+CON-0122,CMP-0082,David Adeleke,davidadeleke13@gmail.com,Buyer
+CON-0123,CMP-0083,Chidinma Balogun,chidinmabalogun97@hotmail.com,Procurement Manager
+CON-0124,CMP-0084,Amaka Okafor,amaka_okafor64@gmail.com,Buyer
+CON-0125,CMP-0084,Zainab Oladipo,zainab_oladipo17@yahoo.com,Store Manager
+CON-0126,CMP-0085,Adaugo Okafor,adaugo.okafor44@outlook.com,Buyer
+CON-0127,CMP-0085,Uche Oladipo,ucheoladipo90@yahoo.com,Procurement Manager
+CON-0128,CMP-0086,Mohammed Ugwu,mohammed_ugwu38@outlook.com,Buyer
+CON-0129,CMP-0086,Faith Adewale,faith.adewale18@gmail.com,Buyer
+CON-0130,CMP-0087,Folake Ogundimu,folakeogundimu86@outlook.com,Founder
+CON-0131,CMP-0088,Kayode Afolabi,kayode_afolabi94@outlook.com,Buyer
+CON-0132,CMP-0089,Aliyu Ogundimu,aliyu_ogundimu96@outlook.com,Owner
+CON-0133,CMP-0090,Chioma Anyanwu,chioma.anyanwu94@yahoo.com,Buyer
+CON-0134,CMP-0091,Yetunde Okonkwo,yetundeokonkwo86@yahoo.com,Procurement Manager
+CON-0135,CMP-0091,Obinna Okafor,obinna_okafor44@yahoo.com,Owner
+CON-0136,CMP-0092,Amaka Adeyemi,amakaadeyemi19@yahoo.com,Buyer
+CON-0137,CMP-0092,Usman Chukwu,usmanchukwu61@outlook.com,Owner
+CON-0138,CMP-0093,Tobi Nwankwo,tobi.nwankwo21@yahoo.com,Procurement Manager
+CON-0139,CMP-0094,James Lawal,james.lawal46@yahoo.com,Store Manager
+CON-0140,CMP-0095,Emmanuel Balogun,emmanuelbalogun64@yahoo.com,Founder
+CON-0141,CMP-0095,Adaora Adeleke,adaora_adeleke93@gmail.com,Buyer
+CON-0142,CMP-0096,Aliyu Taiwo,aliyu_taiwo28@outlook.com,Founder
+CON-0143,CMP-0097,Bunmi Orji,bunmi.orji24@hotmail.com,Buyer
+CON-0144,CMP-0098,Uche Nwosu,uche_nwosu72@yahoo.com,Store Manager
+CON-0145,CMP-0099,Tosin Yakubu,tosinyakubu@hotmail.com,Procurement Manager
+CON-0146,CMP-0100,Tunde Okafor,tunde.okafor56@outlook.com,Store Manager
+CON-0147,CMP-0101,Faith Nwachukwu,faith_nwachukwu73@gmail.com,Store Manager
+CON-0148,CMP-0102,Lawal Taiwo,lawaltaiwo54@yahoo.com,Procurement Manager
+CON-0149,CMP-0103,Hassan Fashola,hassan.fashola38@gmail.com,Buyer
+CON-0150,CMP-0103,Oluwaseun Mbah,oluwaseun.mbah82@gmail.com,Procurement Manager
+CON-0151,CMP-0104,Precious Balogun,preciousbalogun36@yahoo.com,Founder
+CON-0152,CMP-0105,Segun Taiwo,segun.taiwo70@yahoo.com,Founder
+CON-0153,CMP-0106,Ifeoma Williams,ifeoma_williams45@hotmail.com,Founder
+CON-0154,CMP-0106,Faith Okonkwo,faith_okonkwo2@gmail.com,Owner
+CON-0155,CMP-0107,Kemi Taiwo,kemitaiwo52@hotmail.com,Procurement Manager
+CON-0156,CMP-0107,Precious Salami,precious.salami4@gmail.com,Owner
+CON-0157,CMP-0108,Usman Lawal,usman_lawal92@gmail.com,Store Manager
+CON-0158,CMP-0109,Joy Adewale,joy.adewale59@outlook.com,Founder
+CON-0159,CMP-0110,Bunmi Okonkwo,bunmiokonkwo36@hotmail.com,Owner
+CON-0160,CMP-0110,Aliyu Adeyemi,aliyu_adeyemi48@outlook.com,Store Manager
+CON-0161,CMP-0111,Obinna Taiwo,obinna_taiwo61@gmail.com,Founder
+CON-0162,CMP-0112,Hauwa Adeleke,hauwa_adeleke25@gmail.com,Founder
+CON-0163,CMP-0113,Kayode Chukwu,kayode.chukwu28@yahoo.com,Buyer
+CON-0164,CMP-0113,Nneka Lawal,nnekalawal41@yahoo.com,Owner
+CON-0165,CMP-0114,Wale Igwe,wale_igwe25@hotmail.com,Founder
+CON-0166,CMP-0115,Babatunde Anyanwu,babatunde.anyanwu75@yahoo.com,Founder
+CON-0167,CMP-0115,Favour Taiwo,favour_taiwo10@gmail.com,Procurement Manager
+CON-0168,CMP-0116,Kayode Yakubu,kayodeyakubu81@hotmail.com,Founder
+CON-0169,CMP-0117,Oluchi Adewale,oluchiadewale34@gmail.com,Owner
+CON-0170,CMP-0117,Blessing Lawal,blessing_lawal55@gmail.com,Store Manager
+CON-0171,CMP-0118,Chidi Lawal,chidi.lawal15@yahoo.com,Owner
+CON-0172,CMP-0119,Femi Afolabi,femi_afolabi38@yahoo.com,Founder
+CON-0173,CMP-0120,Yetunde Nwachukwu,yetunde_nwachukwu74@outlook.com,Store Manager
+CON-0174,CMP-0121,John Ogundimu,john_ogundimu26@hotmail.com,Founder
+CON-0175,CMP-0122,Obinna Orji,obinna.orji13@hotmail.com,Procurement Manager
+CON-0176,CMP-0122,Ezinne Ogundimu,ezinne_ogundimu51@yahoo.com,Owner
+CON-0177,CMP-0123,Ibrahim Yakubu,ibrahim_yakubu16@hotmail.com,Owner
+CON-0178,CMP-0124,Emeka Ugwu,emekaugwu31@outlook.com,Buyer
+CON-0179,CMP-0125,Fatima Okoro,fatima_okoro44@gmail.com,Store Manager
+CON-0180,CMP-0125,Oluwaseun Adewale,oluwaseun_adewale55@hotmail.com,Owner
+CON-0181,CMP-0126,Chioma Mbah,chioma_mbah63@gmail.com,Founder
+CON-0182,CMP-0126,Ezinne Obi,ezinne.obi66@outlook.com,Buyer
+CON-0183,CMP-0127,Chiamaka Mbah,chiamaka.mbah83@hotmail.com,Procurement Manager
+CON-0184,CMP-0128,Nneka Okafor,nnekaokafor6@gmail.com,Buyer
+CON-0185,CMP-0129,Hassan Chukwu,hassanchukwu35@yahoo.com,Procurement Manager
+CON-0186,CMP-0129,Babatunde Nwosu,babatundenwosu@yahoo.com,Procurement Manager
+CON-0187,CMP-0130,Chiamaka Adeleke,chiamaka_adeleke@hotmail.com,Owner
+CON-0188,CMP-0130,Hauwa Olawale,hauwa.olawale21@gmail.com,Procurement Manager
+CON-0189,CMP-0131,Kelechi Afolabi,kelechiafolabi59@outlook.com,Store Manager
+CON-0190,CMP-0131,Simi Chukwu,simi_chukwu88@yahoo.com,Founder
+CON-0191,CMP-0132,Emmanuel Ogundimu,emmanuel.ogundimu76@gmail.com,Buyer
+CON-0192,CMP-0132,Ngozi Fashola,ngozifashola63@outlook.com,Founder
+CON-0193,CMP-0133,Segun Eze,seguneze77@hotmail.com,Founder
+CON-0194,CMP-0133,Ogechi Olawale,ogechiolawale17@outlook.com,Founder
+CON-0195,CMP-0134,Gbenga Adeleke,gbenga.adeleke83@gmail.com,Buyer
+CON-0196,CMP-0135,Ibrahim Musa,ibrahimmusa88@gmail.com,Founder
+CON-0197,CMP-0136,Grace Aliyu,grace_aliyu9@yahoo.com,Procurement Manager
+CON-0198,CMP-0137,Adebayo Orji,adebayo_orji46@outlook.com,Owner
+CON-0199,CMP-0137,David Obi,davidobi82@outlook.com,Buyer
+CON-0200,CMP-0138,Nneka Olawale,nneka_olawale47@gmail.com,Store Manager
+CON-0201,CMP-0138,Babatunde Eze,babatunde.eze83@outlook.com,Owner
+CON-0202,CMP-0139,Usman Williams,usman.williams92@yahoo.com,Procurement Manager
+CON-0203,CMP-0140,Lawal Afolabi,lawal_afolabi46@outlook.com,Store Manager
