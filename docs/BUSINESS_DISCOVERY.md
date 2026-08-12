@@ -1,131 +1,105 @@
-# Bloomcrest Business Discovery & Solution Scope
+# Bloomcrest Business Discovery and Scope
 
-> Portfolio case-study discovery document for a fictional company using synthetic data.
+This is the discovery note for a fictional company using synthetic data. It explains the business problem, what the project covers, and what it does not claim.
 
----
+## Business context
 
-## 1. Business Context
+Bloomcrest is modeled as a Lagos-based home and lifestyle company selling candles, home fragrance, bedding, decor, and gift sets.
 
-Bloomcrest is modeled as a Lagos-based home and lifestyle company selling:
-
-- Candles
-- Home fragrance
-- Bedding
-- Decor
-- Gift sets
-
-The operating model contains two revenue engines:
+There are two sales channels:
 
 ### DTC
 
-A high-volume direct-to-consumer channel driven by online orders and repeat purchases.
+Online sales to individual customers, with repeat purchases driving part of the revenue.
 
 ### Wholesale
 
-A B2B channel selling to boutiques, hotels, gift shops, and corporate customers through a sales pipeline.
+B2B sales to boutiques, hotels, gift shops, and corporate customers through a sales pipeline.
 
----
+## The questions I wanted the system to answer
 
-## 2. Discovery Questions
+1. Are we on track to hit the revenue target?
+2. Where is revenue being lost or delayed?
+3. Which customers and deals need attention?
 
-The solution is designed around three management questions:
+Those questions drive the data model and the analysis. I did not start with a dashboard and work backwards.
 
-1. Are we likely to hit the revenue target?
-2. Where is revenue leaking?
-3. Which customers and deals require action?
+## Problems modeled in the case study
 
-These questions determine the data model and analytical requirements.
-
----
-
-## 3. Business Pain Points
-
-The case study models the following operational problems:
-
-- DTC and wholesale data are separated.
+- DTC and wholesale data are kept separately.
 - Pipeline visibility is limited.
-- Forecasting relies too heavily on raw pipeline value.
-- Stalled deals may not receive timely intervention.
-- Customer acquisition cost is not consistently compared with downstream value.
+- Raw pipeline value can make the forecast look better than it is.
+- Stalled deals can sit without follow-up.
+- Acquisition cost is not always compared with the value a customer brings later.
 - Customer inactivity is difficult to prioritize.
-- Booked revenue and collected cash need to be distinguishable.
-- Loss reasons need structured analysis.
+- Booked revenue and collected cash are different numbers.
+- Loss reasons need consistent categories before they can be compared.
 
----
+## What the project needs to do
 
-## 4. Business Objectives
+The build should:
 
-The solution should:
+- give revenue data one reliable structure
+- make pipeline stages and ownership clear
+- calculate a probability-weighted pipeline value
+- flag pipeline risks
+- compare acquisition cost with customer value
+- identify customers worth a retention or win-back review
+- reconcile revenue between the source tables and reporting views
 
-- Create a trusted revenue data foundation.
-- Make wholesale pipeline stages and ownership explicit.
-- Produce a probability-weighted pipeline forecast.
-- Detect pipeline risks.
-- Quantify acquisition-channel economics.
-- Identify retention and win-back priorities.
-- Reconcile revenue across analytical layers.
+## Scope
 
----
-
-## 5. Scope
-
-### In scope
+### Included
 
 - PostgreSQL data model
-- Synthetic operational dataset
-- HubSpot CRM data model/migration package
-- CRM-to-PostgreSQL synchronization logic
+- Synthetic operational data
+- HubSpot CRM migration package
+- CRM-to-PostgreSQL sync logic
 - Automation design
-- Revenue analytics
+- Revenue analysis
 - Customer economics
 - RFM segmentation
 - Cohort analysis
 - Pipeline forecasting
 - Data validation
 
-### Out of scope
+### Not included
 
-- Live Shopify integration
-- Live payment-gateway integration
-- Production customer communications
+- Live Shopify connection
+- Live payment gateway connection
+- Production customer messaging
 - Production deployment
-- Guaranteed revenue uplift
-- Production ML scoring
+- Guaranteed revenue increase
+- Production machine-learning scoring
 - Real-time BI infrastructure
 
----
+## Decisions behind the build
 
-## 6. Solution Principles
+### Start with the business structure
 
-### Principle 1 - Model the business before modeling the data
+The database follows the two sales channels because DTC and wholesale behave differently. I did not force both into one generic sales table just to make the model look simpler.
 
-The data model follows the two revenue engines rather than forcing them into one generic sales table.
+### Keep business probabilities separate from the model test
 
-### Principle 2 - Keep probability and prediction separate
+Deal-stage probabilities are business assumptions. The experimental ML model is evaluated separately so a weak model does not quietly become part of the forecast.
 
-Stage probabilities are transparent business assumptions.
+### Check the numbers before reporting them
 
-The experimental ML model is evaluated independently.
+Revenue should reconcile between the source tables and the analytical views before it is shown in a report.
 
-### Principle 3 - Reconcile before reporting
+### Don't automate a decision that has not earned trust
 
-Revenue figures should reconcile across source tables and analytical views.
+The lead-scoring experiment produced a cross-validated AUC of 0.42. That result was not good enough to use as production scoring, so I did not ship it as one.
 
-### Principle 4 - Do not automate weak decisions
+## Success criteria
 
-The lead-scoring experiment produced an AUC of 0.42 and was therefore not promoted to production logic.
-
----
-
-## 7. Success Criteria
-
-A production implementation would be considered successful when it can:
+A real implementation would need to show that it can:
 
 - reconcile revenue consistently
-- provide trustworthy pipeline visibility
+- give the sales team a clear view of the pipeline
 - reduce missed follow-up
-- identify actionable retention segments
+- identify useful retention groups
 - make customer economics measurable
-- provide traceable forecast assumptions
+- show where forecast assumptions come from
 
-Because this is a portfolio case study, these are target success criteria, not measured client outcomes.
+These are target measures for a real implementation. They are not measured client results from this portfolio project.
