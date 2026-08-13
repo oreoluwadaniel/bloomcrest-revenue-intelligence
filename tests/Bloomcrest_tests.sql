@@ -1,7 +1,6 @@
 -- =====================================================================
--- Bloomcrest Revenue Intelligence | Phase 9 | Data validation test suite
--- Run this single query in pgAdmin. Every row should read PASS.
--- Any FAIL points you straight at the rule that broke and where.
+-- Bloomcrest Revenue Intelligence | Data validation test
+
 -- =====================================================================
 SELECT check, violations,
        CASE WHEN violations = 0 THEN 'PASS' ELSE 'FAIL' END AS result
