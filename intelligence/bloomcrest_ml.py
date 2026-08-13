@@ -1,17 +1,5 @@
 """
-Bloomcrest Revenue Intelligence | Phase 8 Part 2 | Machine learning.
-
-Runs three analyses against your Postgres warehouse:
-  A. Lead scoring      - rank open deals by expected value, with a trained
-                         logistic model reported honestly alongside.
-  B. Churn risk (RFM)  - segment customers by Recency, Frequency, Monetary
-                         and surface high-value accounts about to lapse.
-  C. Revenue forecast  - a simple trend forecast of the next three months.
-
-Setup:
-  pip install pandas scikit-learn sqlalchemy psycopg2-binary
-Fill in the connection string below, then run:
-  python bloomcrest_ml.py
+Bloomcrest Revenue Intelligence | Machine learning.
 """
 
 import warnings; warnings.filterwarnings("ignore")
@@ -24,7 +12,6 @@ from sklearn.pipeline import Pipeline
 from sklearn.model_selection import cross_val_score
 
 # ------------------------------ CONFIG --------------------------------------
-# postgresql://USER:PASSWORD@HOST:PORT/DATABASE
 ENGINE = create_engine("postgresql+psycopg2://postgres:YOUR_PASSWORD@localhost:5432/bloomcrest")
 AS_OF  = pd.Timestamp("2026-07-20")   # the last date in the data
 # ----------------------------------------------------------------------------
