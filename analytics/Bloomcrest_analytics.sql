@@ -1,6 +1,4 @@
 -- Bloomcrest Revenue Intelligence | PostgreSQL Analytics
--- Analysis as-of date: 2026-07-20
--- All revenue definitions are documented below.
 
 -- ================================================================
 -- 1. CAC BY ACQUISITION CHANNEL
