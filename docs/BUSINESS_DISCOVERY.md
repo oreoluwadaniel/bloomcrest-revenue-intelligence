@@ -1,7 +1,5 @@
 # Bloomcrest Business Discovery and Scope
 
-This is the discovery note for a fictional company using synthetic data. It explains the business problem, what the project covers, and what it does not claim.
-
 ## Business context
 
 Bloomcrest is modeled as a Lagos-based home and lifestyle company selling candles, home fragrance, bedding, decor, and gift sets.
