@@ -1,14 +1,6 @@
 -- =====================================================================
 -- Bloomcrest Revenue Intelligence System
--- Star schema for BI  |  Phase 7, Reporting
---
--- Run this AFTER the base tables are loaded (Phase 4).
--- It builds a date dimension table plus dimension and fact VIEWS.
--- Views stay in sync with the base tables automatically and store no
--- extra data. Power BI imports the results of these views.
---
--- This is a constellation: several fact tables (sales, deals, reorders)
--- share the same conformed dimensions (date, region, source, product...).
+
 -- =====================================================================
 
 
