@@ -1,14 +1,5 @@
 -- =====================================================================
 -- Bloomcrest Revenue Intelligence System
--- PostgreSQL schema (DDL)  |  Phase 4, Database Design
--- Prepared by: Daniel Olatunji
---
--- Run order:
---   1. Create the tables (this whole file, top section).
---   2. Load the CSV data (see the LOAD section, commented, at the bottom).
---   3. Create the indexes (INDEX section) AFTER the data is loaded.
--- Tables are defined parents-first so every foreign key has something
--- to point to.
 -- =====================================================================
 
 
@@ -142,34 +133,7 @@ CREATE TABLE payments (
 );
 
 
--- =====================================================================
--- LOAD  (run these AFTER the tables exist, parents first)
--- In pgAdmin: use the psql tool or the Query Tool with \copy.
--- Replace the path with the folder where you unzipped the CSVs.
--- NULL '' turns empty cells (like a blank actual_close) into real NULLs.
--- =====================================================================
--- \copy regions          FROM '/path/to/bloomcrest_data/regions.csv'          WITH (FORMAT csv, HEADER true, NULL '');
--- \copy lead_sources     FROM '/path/to/bloomcrest_data/lead_sources.csv'     WITH (FORMAT csv, HEADER true, NULL '');
--- \copy products         FROM '/path/to/bloomcrest_data/products.csv'         WITH (FORMAT csv, HEADER true, NULL '');
--- \copy sales_reps       FROM '/path/to/bloomcrest_data/sales_reps.csv'       WITH (FORMAT csv, HEADER true, NULL '');
--- \copy deal_stages      FROM '/path/to/bloomcrest_data/deal_stages.csv'      WITH (FORMAT csv, HEADER true, NULL '');
--- \copy lost_reasons     FROM '/path/to/bloomcrest_data/lost_reasons.csv'     WITH (FORMAT csv, HEADER true, NULL '');
--- \copy companies        FROM '/path/to/bloomcrest_data/companies.csv'        WITH (FORMAT csv, HEADER true, NULL '');
--- \copy contacts         FROM '/path/to/bloomcrest_data/contacts.csv'         WITH (FORMAT csv, HEADER true, NULL '');
--- \copy deals            FROM '/path/to/bloomcrest_data/deals.csv'            WITH (FORMAT csv, HEADER true, NULL '');
--- \copy activities       FROM '/path/to/bloomcrest_data/activities.csv'       WITH (FORMAT csv, HEADER true, NULL '');
--- \copy wholesale_orders FROM '/path/to/bloomcrest_data/wholesale_orders.csv' WITH (FORMAT csv, HEADER true, NULL '');
--- \copy customers        FROM '/path/to/bloomcrest_data/customers.csv'        WITH (FORMAT csv, HEADER true, NULL '');
--- \copy orders           FROM '/path/to/bloomcrest_data/orders.csv'           WITH (FORMAT csv, HEADER true, NULL '');
--- \copy order_items      FROM '/path/to/bloomcrest_data/order_items.csv'      WITH (FORMAT csv, HEADER true, NULL '');
--- \copy payments         FROM '/path/to/bloomcrest_data/payments.csv'         WITH (FORMAT csv, HEADER true, NULL '');
 
-
--- =====================================================================
--- INDEXES  (run AFTER the data is loaded, not before)
--- Indexes speed up the joins and filters your dashboards will run most.
--- Building them after the bulk load is faster than before.
--- =====================================================================
 CREATE INDEX idx_deals_company   ON deals(company_id);
 CREATE INDEX idx_deals_rep       ON deals(rep_id);
 CREATE INDEX idx_deals_stage     ON deals(stage_id);
